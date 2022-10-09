@@ -1,0 +1,136 @@
+.boxed h1 {
+    text-align: center;
+    font-size: 20px;
+    }
+    .textalign{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 700;
+        line-height: 1.1;
+        color: grey;
+        font-size: 39px;
+        margin: auto;
+    }
+    .textalign_black{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 700;
+        line-height: 1.1;
+        color: rgb(0, 0, 0);
+        font-size: 2.2pc;
+        /* margin: auto; */
+    }
+
+    .footer-head{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 35px;
+        color: inherit;
+        margin-top: 21px;
+        margin-bottom: 10.5px;
+    
+    }
+    .footer-p{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 16px;
+
+    }
+     
+    .greytext{
+        color: #ada7a7;
+    }
+    .container .breadcrumb, .static-page-heading {
+        display: none !important;
+    }
+    .about1 {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    }
+    .about3 .content div{
+    max-width: 310px;
+    margin: auto;
+    font-size: 18px;
+    color: #ada7a7;
+    }
+    .about1 {
+    background-image: url(http://cdn.storehippo.com/s/5997cc7c4d6e8ffa20e50aae/ms.files/About-us-1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center 120px;
+    }
+    .about5 .container .content div, .about6 .container .content div {
+    font-size: 18px;
+    color: #ada7a7;
+    }
+    .about2 {
+    height: auto;
+    display: flex;
+    padding-top: 100px;
+    justify-content: center;
+    }
+    .about2 .middleText {
+    max-width: 500px;
+    }
+    .bg-grey {
+    background-color: #dadada;
+    }
+    .about3 .container , .about4 .container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    }
+    .about4 .container {
+    flex-wrap: wrap;
+    }
+    .about4 .container h1{
+    flex-basis: 100%;
+    }
+    .about5, .about6 {
+    background-image: url(http://cdn.storehippo.com/s/5997cc7c4d6e8ffa20e50aae/ms.files/About-us-51.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+
+    .team .first-row, .team .second-row, .team .third-row {
+        margin-top: 20px;
+        padding: 0 25px;
+    }
+    .about6 {
+    background-image: url(http://cdn.storehippo.com/s/5997cc7c4d6e8ffa20e50aae/ms.files/About-us-61.jpg);
+    }
+    .about5 .container, .about6 .container {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    }
+    .about5 .container .content, .about6 .container .content {
+    max-width: 310px;
+    margin: auto;
+    }
+    .team .first-row,.team .second-row, .team .third-row {
+    margin-top: 20px;
+    padding: 0 25px;
+    }
+    
+    .boxed {
+    height: 150px;
+    background: grey;
+    width: 178px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin: 0 20px;
+    text-align: center;
+    }
+    .boxed p {
+    color: #ffffffab;
+    }
+
+    .text-center{
+        display: block;
+        margin: auto;
+    }
+    

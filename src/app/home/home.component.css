@@ -5,10 +5,12 @@
 }
 div #school {
     background-image: url("http://cdn.storehippo.com/s/5997cc7c4d6e8ffa20e50aae/ms.files/Home-1.jpg");
-
     width: 100%;
     height: 700px;
     background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+   
 }
 
 div #enterprises {
