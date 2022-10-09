@@ -6,6 +6,7 @@ import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
 import { AboutComponent } from './about/about.component';
 import { AppRoutingModule } from './app-routing.module';
+import { ProductionComponent } from './production/production.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { AppRoutingModule } from './app-routing.module';
     NavbarComponent,
     HomeComponent,
     FooterComponent,
-    AboutComponent
+    AboutComponent,
+    ProductionComponent
   ],
   imports: [
     BrowserModule,
