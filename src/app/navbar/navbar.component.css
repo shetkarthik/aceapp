@@ -67,3 +67,12 @@ ul {
   overflow: hidden;
   margin-left: -45px;
 }
+
+.logout_text{
+  color: grey;
+  text-align: center;
+}
+
+.logout_text:hover{
+  color: white;
+}

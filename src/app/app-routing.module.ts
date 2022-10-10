@@ -8,7 +8,7 @@ import { ProductionComponent } from './production/production.component';
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'about', component: AboutComponent },
-  {path:'production',component:ProductionComponent}
+  {path:'pro',component:ProductionComponent}
 ];
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

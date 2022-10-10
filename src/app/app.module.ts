@@ -9,6 +9,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { ProductionComponent } from './production/production.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +17,8 @@ import { ProductionComponent } from './production/production.component';
     HomeComponent,
     FooterComponent,
     AboutComponent,
-    ProductionComponent
+    ProductionComponent,
+   
   ],
   imports: [
     BrowserModule,
