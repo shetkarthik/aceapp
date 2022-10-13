@@ -7,6 +7,12 @@ import { FooterComponent } from './footer/footer.component';
 import { AboutComponent } from './about/about.component';
 import { AppRoutingModule } from './app-routing.module';
 import { ProductionComponent } from './production/production.component';
+import { AccountComponent } from './account/account.component';
+import { PersonalInfoComponent } from './account/personal-info/personal-info.component';
+import { AddressComponent } from './account/address/address.component';
+import { OrderHistoryComponent } from './account/order-history/order-history.component';
+import { WalletComponent } from './account/wallet/wallet.component';
+import { TrackOrderComponent } from './account/track-order/track-order.component';
 
 
 
@@ -18,6 +24,12 @@ import { ProductionComponent } from './production/production.component';
     FooterComponent,
     AboutComponent,
     ProductionComponent,
+    AccountComponent,
+    PersonalInfoComponent,
+    AddressComponent,
+    OrderHistoryComponent,
+    WalletComponent,
+    TrackOrderComponent,
    
   ],
   imports: [
